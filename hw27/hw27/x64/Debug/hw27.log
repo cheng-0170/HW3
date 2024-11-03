@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\USER\Desktop\HW3\hw27\hw27\main.c(9,2): error C2143: 語法錯誤: 遺漏 ';' (在 'for' 之前)
+C:\Users\USER\Desktop\HW3\hw27\hw27\main.c(11,10): warning C4778: 'printf' : 未結束的格式字串 '%1\n'
+C:\Users\USER\Desktop\HW3\hw27\hw27\main.c(11,26): warning C4474: 'printf': 傳遞給格式字串的引數太多
+      C:\Users\USER\Desktop\HW3\hw27\hw27\main.c(11,26):
+      預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  
